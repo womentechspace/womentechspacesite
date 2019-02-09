@@ -16,4 +16,4 @@ If you are female and between the ages of 18-100 you can apply for a pass! You d
 
 We do take our Code of Conduct very seriously and expect everyone in the workshop to abide to it. You can read our Code of Conduct [here](http://bit.ly/WomenInTechCoC).
 
-You can read further information and sign up [here]({{< ref "events/march2019" >}}).
+You can read further information and sign up on our event page.
