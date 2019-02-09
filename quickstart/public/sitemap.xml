@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://womentechspace.github.io/about-us/information/</loc>
+    <lastmod>2019-02-03T13:28:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/about-us/faq/</loc>
+    <lastmod>2019-02-03T13:25:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/about-us/what_is_django/</loc>
+    <lastmod>2019-02-01T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/blog/blog_for_us/</loc>
+    <lastmod>2019-01-09T13:35:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/coaches/become/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/sponsors/become/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/coaches/list/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/sponsors/current/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/blog/my-first-post/</loc>
+    <lastmod>2018-11-03T13:35:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/</loc>
+    <lastmod>2019-02-03T13:28:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/about-us/</loc>
+    <lastmod>2019-02-03T13:28:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/blog/</loc>
+    <lastmod>2019-01-09T13:35:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/coaches/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/sponsors/</loc>
+    <lastmod>2019-01-09T13:15:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://womentechspace.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
