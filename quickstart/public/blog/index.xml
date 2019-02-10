@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Women Tech Space</title>
+    <link>https://womentechspace.github.io/blog/</link>
+    <description>Recent content in Blogs on Women Tech Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jan 2019 13:35:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://womentechspace.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Write for us</title>
+      <link>https://womentechspace.github.io/blog/blog_for_us/</link>
+      <pubDate>Wed, 09 Jan 2019 13:35:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/blog/blog_for_us/</guid>
+      <description>If you would like to write for Women Tech Space, get in touch at womentechspace@gmail.com.</description>
+    </item>
+    
+    <item>
+      <title>Women Tech Space</title>
+      <link>https://womentechspace.github.io/blog/my-first-post/</link>
+      <pubDate>Sat, 03 Nov 2018 13:35:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/blog/my-first-post/</guid>
+      <description>The first ever Women Tech Space is scheduled for Monday 25th September 2017 at the Ormeau Baths gallery. We are sold out and we are hoping that we get 30 women full of motivation and drive to learn!
+Women Tech Space was in discussion for a long time. I have been involved with Django Girls Belfast for a while now and each workshop becomes a little better, a little bit smoother, more relaxed and a lot of fun.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About us on Women Tech Space</title>
+    <link>https://womentechspace.github.io/about-us/</link>
+    <description>Recent content in About us on Women Tech Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Feb 2019 13:28:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://womentechspace.github.io/about-us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Women Tech Space Workshop</title>
+      <link>https://womentechspace.github.io/about-us/information/</link>
+      <pubDate>Sun, 03 Feb 2019 13:28:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/about-us/information/</guid>
+      <description>We want women to experience what it is like to code and work with technology. Our goal is to create a safe environment where women can explore technology.
+We are trans-inclusive and welcome all women from all walks of life. Men are welcome to attend as well. We don&amp;rsquo;t want men out of the IT industry, we just want more women in it.
+If you are female or identify as female, you can apply for a pass!</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://womentechspace.github.io/about-us/faq/</link>
+      <pubDate>Sun, 03 Feb 2019 13:25:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/about-us/faq/</guid>
+      <description>Do I need to know anything about websites or programming?
+No! Workshops are for beginners. You don’t need to know anything about it. However, if you have a little bit of technical knowledge (i.e. you know what HTML or CSS are) you still can apply!
+Should I bring my own laptop?
+Yes. We have no hardware, so we expect you to bring your computer with you.
+In the event that you cannot get your hands on a laptop, please get in touch as we do have links to a local community group that can help out!</description>
+    </item>
+    
+    <item>
+      <title>Previous Events</title>
+      <link>https://womentechspace.github.io/about-us/previous_events/</link>
+      <pubDate>Sat, 02 Feb 2019 13:28:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/about-us/previous_events/</guid>
+      <description>This isn&amp;rsquo;t our first rodeo!
+We have been running Django Girls workshops for a number of years and each time, have had a sell-out event.
+In 2017, we decided to start a series of monthly workshops called Women Tech Space to provide a more regular slot to provide local women with the help and support they need to continue their coding journey.
+Women Tech Space ran for a few years but since late 2018, we have taken a brief hiatus as life/work/children took over for a little while!</description>
+    </item>
+    
+    <item>
+      <title>What is Django anyway?</title>
+      <link>https://womentechspace.github.io/about-us/what_is_django/</link>
+      <pubDate>Fri, 01 Feb 2019 13:15:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/about-us/what_is_django/</guid>
+      <description>Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+If you are a beginner, this framework provides you with most of the tools and setup required to get a site up and running with minimal fuss.</description>
+    </item>
+    
+  </channel>
+</rss>

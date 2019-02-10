@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django Girls on Women Tech Space</title>
+    <link>https://womentechspace.github.io/categories/django-girls/</link>
+    <description>Recent content in Django Girls on Women Tech Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Feb 2019 13:35:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://womentechspace.github.io/categories/django-girls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women Tech Space 2019</title>
+      <link>https://womentechspace.github.io/events/march2019/</link>
+      <pubDate>Sun, 03 Feb 2019 13:35:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/events/march2019/</guid>
+      <description>We will be running the next Women Tech Space workshop on Saturday 23rd March 2019 at Puppet Belfast.
+This will be a full day workshop running from 9.30am to 5pm.
+As a workshop attendee you will:
+ Create your first website and learn how you could complete and/or enhance it. Find out whether programming might be a career option for you. Meet people from the industry and learn more about programming.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coaches on Women Tech Space</title>
+    <link>https://womentechspace.github.io/coaches/</link>
+    <description>Recent content in Coaches on Women Tech Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jan 2019 13:15:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://womentechspace.github.io/coaches/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Become a coach!</title>
+      <link>https://womentechspace.github.io/coaches/become/</link>
+      <pubDate>Wed, 09 Jan 2019 13:15:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/coaches/become/</guid>
+      <description>We would be delighted if you would like to join us as a coach!
+You don&amp;rsquo;t have to have been a coach before and we love previous attendees to return as coaches and mentor some of our newcomers. Don&amp;rsquo;t worry if you think you don&amp;rsquo;t have enough knowledge. We are all still learning and coaches will help each other out!
+Coach submissions are open. Click here to become a Django Girls coach.</description>
+    </item>
+    
+    <item>
+      <title>Current coaches</title>
+      <link>https://womentechspace.github.io/coaches/list/</link>
+      <pubDate>Wed, 09 Jan 2019 13:15:44 +0000</pubDate>
+      
+      <guid>https://womentechspace.github.io/coaches/list/</guid>
+      <description>  Zoe Gadon-Thompson     Jen Hanratty     Danielle Topping   </description>
+    </item>
+    
+  </channel>
+</rss>
