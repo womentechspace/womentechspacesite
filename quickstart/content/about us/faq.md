@@ -3,6 +3,7 @@ title: "FAQ"
 date: 2019-02-03T13:25:44Z
 draft: false
 ---
+
 _Do I need to know anything about websites or programming?_
 
 No! Workshops are for beginners. You don’t need to know anything about it. However, if you have a little bit of technical knowledge (i.e. you know what HTML or CSS are) you still can apply!
