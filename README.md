@@ -7,4 +7,9 @@ Built using Hugo. To get this running, clone the repo and run:
 ```
 	cd quickstart
 	hugo server -D
+```
+
+To build site:
+```
+	hugo --buildDrafts
 ```  
