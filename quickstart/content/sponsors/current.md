@@ -6,9 +6,9 @@ draft: true
 
 {{< figure src="https://i.imgur.com/l102jne.png?width=10%">}}
 
-Puppet have been our sponsor from 2018 and have been incredibly supportive in getting our workshops up and running, providing an amazing space to work from and supplying us with food.
+Puppet have been our sponsor from 2017 and have been incredibly supportive in getting our workshops up and running, providing an amazing space to work from and supplying us with food.
 
-We could not have done it without them! A huge thanks to you :)
+We could not have done it without them! A huge thanks to you (especially Christine!) :)
 
 {{< figure src="https://i.imgur.com/Wt82mSc.jpg?width=70%" title="June 2018 workshop">}}
 
