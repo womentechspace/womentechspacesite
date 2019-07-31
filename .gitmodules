@@ -1,0 +1,3 @@
+[submodule "quickstart/public"]
+	path = quickstart/public
+	url = git@github.com:womentechspace/womentechspace.github.io.git
