@@ -6,9 +6,6 @@ categories: ["django girls", "women tech space"]
 summary: "1 day workshops"
 content: "This is a 1 day workshop which will help women to learn to code in the form of building their own blog and deploying their site. Link to signup: http://bit.ly/WTSFeb18Signup"
 ---
-We are currently running no events. Please email if you would more information.
-
-
 We will be running the next Women Tech Space workshop on Saturday 23rd March 2019 at [Puppet Belfast](https://www.google.com/maps/place/Puppet/@54.5934016,-5.9293752,15z/data=!4m2!3m1!1s0x0:0x18ef584ad1756b48?ved=2ahUKEwisjOaXzqDgAhXYSRUIHdwJDIkQ_BIwDnoECAYQCA).
 
 This will be a full day workshop running from 9.30am to 5pm.
